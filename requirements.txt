@@ -1,0 +1,4 @@
+mcp==2.3.0
+openai==3.29.0
+python-dotenv==1.2.4
+streamlit==1.65.0
